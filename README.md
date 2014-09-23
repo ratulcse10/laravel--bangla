@@ -8,6 +8,7 @@
 <br/>
 
 * <a href="Introduction.md">শুরুর আগে</a>
+* <a href="install.md">ইন্সটল</a>
 
 
 *টিউটোরিয়ালের ফরমেটটি আবু আশরাফ মাসনুন এর   <a href="https://github.com/masnun/django-bangla-book">বাংলায় জ্যাঙ্গো</a> প্রজেক্ট দেখে অনুপ্রাণিত
